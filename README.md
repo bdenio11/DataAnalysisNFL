@@ -1,3 +1,7 @@
+2022 Big Data Bowl Challenge
+https://www.kaggle.com/competitions/nfl-big-data-bowl-2022/data
+
+
 Summary of data
 The 2022 Big Data Bowl data contains Next Gen Stats player tracking, play, game, player, and PFF scouting data for all 2018-2020 Special Teams plays. Here, you'll find a summary of each data set in the 2022 Data Bowl, a list of key variables to join on, and a description of each variable.
 
